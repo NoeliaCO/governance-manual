@@ -30,7 +30,7 @@ The trade-offs to this parameter are heavily tied to the Auction Price Function 
 
 ## Changes
 
-Adjusting a Maximum Auction Duration parameter for a specific vault type is a manual process that requires an executive vote. Changes to Maximum Auction Drawdown parameters are subject to the GSM Pause Delay.
+Adjusting a Maximum Auction Duration parameter for a specific vault type is a manual process that requires an executive vote. Changes to Maximum Auction Duration parameters are subject to the GSM Pause Delay.
 
 ## Considerations
 
